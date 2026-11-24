@@ -2,14 +2,14 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v27**
+**Versión de trabajo actual: v28**
 
-- `Anestesia_y_Obesidad_ES_v27.pdf` (253 páginas)
-- `Anesthesia_and_Obesity_EN_v27.pdf` (252 páginas)
+- `Anestesia_y_Obesidad_ES_v28.pdf` (267 páginas)
+- `Anesthesia_and_Obesity_EN_v28.pdf` (265 páginas)
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v28**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v29**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -26,6 +26,7 @@
 | v25 | Figura 6.7 trasladada a la página 95, después de «…vigilancia respiratoria (figura 6.7B)» y antes de 6.7 FoCUS. |
 | v26 | Pie de foto de la figura 6.12: paciente en **posición sentada** (no decúbito lateral). |
 | v27 | Imagen del paciente con el equipo en quirófano bajo el título del capítulo 8, antes de «Objetivos de aprendizaje». |
+| v28 | **Capítulo 17 nuevo**: «Cuidados posanestésicos, criterios de alta y tromboprofilaxis en el paciente con obesidad» (14 páginas, ES y EN; ES págs. 225–238, EN págs. 223–236). Unifica el material de Vera Health y OpenEvidence sin repetir información: criterios de alta de la URPA, consideraciones ventilatorias/cardiovasculares/quirúrgicas, alta el mismo día, tromboprofilaxis (dosis de enoxaparina por IMC), trombosis portomesentérica, caso clínico, puntos clave y 35 referencias. Incluye 2 figuras redibujadas (17.1 monitorización respiratoria tras cirugía bariátrica; 17.2 algoritmo de trombosis esplácnica) y 4 tablas. Se actualizó el índice general; Siglas/Abbreviations renumeradas. |
 
 ## Pendientes / observaciones para las próximas versiones
 
@@ -44,3 +45,12 @@
 - Fuente de los pies de foto nuevos: TeX Gyre Pagella (la misma del libro), tamaño ≈ 9,9 pt; etiqueta «FIGURA» en versalitas.
 - Los PDF son pesados; `pdftotext` sobre el documento completo se cuelga: usar páginas individuales (`-f N -l N`).
 - Las páginas con figuras usan márgenes distintos en páginas pares (texto x 76–511) e impares (x 84–519).
+
+## Capítulo 17 — notas para revisión (v28)
+
+- Las figuras 17.1 y 17.2 **se redibujaron** (en español e inglés) a partir de las capturas enviadas, con la atribución «Adaptado de…»; no se incrustaron las capturas originales por derechos de autor de las publicaciones. La 17.1 se atribuyó a Chand y Prathanvanich (J Intensive Care Med 2016) por coincidir con el texto de OpenEvidence; confirmar.
+- El caso clínico (17.10) es **ilustrativo**, redactado para este capítulo; revisar.
+- Umbral de caída de hemoglobina en alta el mismo día: el texto fuente daba «1,0 mmol/L» y «3,2 g/dL»; se mantuvo tal cual con las dos citas. Verificar en las fuentes originales.
+- Las cifras de Zhang et al. 2026 (169 pacientes; OR 14,77/3,92/3,12) vienen de Vera Health y no se pudieron contrastar; el DOI y la cita sí se verificaron en Crossref.
+- No se agregaron las siglas nuevas (HBPM, ACOD, TPM…) a la página de Siglas; se definen en el texto. Las listas de figuras y tablas del índice no se actualizaron (no cubren los capítulos recientes).
+- El capítulo se compone con ReportLab (`ch17/` en el entorno de trabajo, no en el repositorio); el libro no tiene archivo fuente.
