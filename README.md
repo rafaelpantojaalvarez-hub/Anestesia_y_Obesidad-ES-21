@@ -2,14 +2,14 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v28**
+**Versión de trabajo actual: v29**
 
-- `Anestesia_y_Obesidad_ES_v28.pdf` (267 páginas)
-- `Anesthesia_and_Obesity_EN_v28.pdf` (265 páginas)
+- `Anestesia_y_Obesidad_ES_v29.pdf` (268 páginas)
+- `Anesthesia_and_Obesity_EN_v29.pdf` (266 páginas)
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v29**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v30**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -45,6 +45,7 @@
 - Fuente de los pies de foto nuevos: TeX Gyre Pagella (la misma del libro), tamaño ≈ 9,9 pt; etiqueta «FIGURA» en versalitas.
 - Los PDF son pesados; `pdftotext` sobre el documento completo se cuelga: usar páginas individuales (`-f N -l N`).
 - Las páginas con figuras usan márgenes distintos en páginas pares (texto x 76–511) e impares (x 84–519).
+| v29 | Figura 8.5 nueva (3 fotos de intubación despierta con fibrobroncoscopio) tras el apartado 8.5.2, con pie «Secuencia de intubación despierta con fibrobroncoscopio en paciente obeso con vía aérea difícil». La figura 8.4 y el texto posterior se desplazaron; se añadió una página sin número (ES pág. 124; EN tras la 122). No se actualizó la lista de figuras del índice. |
 
 ## Capítulo 17 — notas para revisión (v28)
 
