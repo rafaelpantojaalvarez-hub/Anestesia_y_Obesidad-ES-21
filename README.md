@@ -2,14 +2,14 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v33**
+**Versión de trabajo actual: v32**
 
-- `Anestesia_y_Obesidad_ES_v33.pdf` (270 páginas)
-- `Anesthesia_and_Obesity_EN_v33.pdf` (268 páginas)
+- `Anestesia_y_Obesidad_ES_v32.pdf` (270 páginas)
+- `Anesthesia_and_Obesity_EN_v32.pdf` (268 páginas)
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v34**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v33**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -48,8 +48,7 @@
 | v29 | Figura 8.5 nueva (3 fotos de intubación despierta con fibrobroncoscopio) tras el apartado 8.5.2, con pie «Secuencia de intubación despierta con fibrobroncoscopio en paciente obeso con vía aérea difícil». La figura 8.4 y el texto posterior se desplazaron; se añadió una página sin número (ES pág. 124; EN tras la 122). No se actualizó la lista de figuras del índice. |
 | v30 | Imagen «Ecografía pulmonar: Seashore Sign vs. Código de Barras» (sin número ni pie de foto) al final del apartado 6.5.2 Neumotórax (ES pág. 94; EN pág. 93). Quedó en una página nueva sin número, con los apartados 6.5.3 y 6.6 desplazados a ella. |
 | v31 | Sección 6.8 (ES pág. 96; EN pág. 95): dos fotos de punción de la arteria radial bajo el apartado «Línea arterial radial»; y en una página nueva sin número, cuadrícula 2×2 que relaciona las fotos de acceso venoso central con la imagen de ecografía correspondiente (fila 1: foto izquierda + ecografía 1; fila 2: foto derecha + ecografía 2). Sin pie de foto ni número. |
-| v32 | El apartado «Acceso venoso central» (6.8) pasó a la página nueva sin número, encima de la cuadrícula 2×2 de imágenes. |
-| v33 | Pie de imagen (sin número) bajo la cuadrícula de 4 imágenes de la página 97: «Acceso venoso central de la vena yugular interna izquierda en paciente obeso bajo guía ecográfica fuera de plano, con transductor lineal de alta frecuencia.» (traducido en EN). |
+| v32 | El apartado «Acceso venoso central» (6.8) pasó a la página nueva sin número, encima de la cuadrícula 2×2 de imágenes, y se añadió bajo la cuadrícula el pie de imagen (sin número): «Acceso venoso central de la vena yugular interna del lado derecho en paciente obeso bajo guía ecográfica fuera de plano, con transductor lineal de alta frecuencia.» (traducido en EN). Se fusionó aquí la antigua v33 por indicación del autor. |
 
 ## Capítulo 17 — notas para revisión (v28)
 
