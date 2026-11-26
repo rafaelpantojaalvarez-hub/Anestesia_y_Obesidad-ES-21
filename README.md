@@ -7,6 +7,8 @@
 - `Anestesia_y_Obesidad_ES_v36.pdf` (272 páginas)
 - `Anesthesia_and_Obesity_EN_v36.pdf` (271 páginas)
 
+> **Chat nuevo:** leer primero `CLAUDE.md` (flujo obligatorio y notas técnicas). La versión de trabajo es la indicada arriba; cada cambio crea la siguiente versión y actualiza este repositorio (rama de trabajo y `main`).
+
 ## Reglas de trabajo (acordadas con el autor)
 
 1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v37**), en español e inglés.
