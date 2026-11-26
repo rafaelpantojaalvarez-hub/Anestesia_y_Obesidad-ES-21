@@ -3,7 +3,7 @@
 Este repositorio contiene el libro **Anestesia y obesidad** (español) y **Anesthesia and Obesity** (inglés), en PDF. El autor (Dr. Rafael Pantoja) pide cambios por chat; se aplican **siempre en ambos libros**.
 
 ## Versión de trabajo
-- Archivos vigentes: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf` (hoy **v36**; ver `README.md` para el número y el historial).
+- Archivos vigentes: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf` (hoy **v37**; ver `README.md` para el número y el historial).
 - Trabajar SIEMPRE sobre la última versión. No usar versiones anteriores.
 
 ## Flujo obligatorio por cada cambio
