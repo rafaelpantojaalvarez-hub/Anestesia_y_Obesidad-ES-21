@@ -2,14 +2,14 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v35**
+**Versión de trabajo actual: v36**
 
-- `Anestesia_y_Obesidad_ES_v35.pdf` (272 páginas)
-- `Anesthesia_and_Obesity_EN_v35.pdf` (271 páginas)
+- `Anestesia_y_Obesidad_ES_v36.pdf` (272 páginas)
+- `Anesthesia_and_Obesity_EN_v36.pdf` (271 páginas)
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v36**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v37**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -52,6 +52,7 @@
 | v33 | Cuadrícula de 4 imágenes de la página 97: las dos de la fila inferior tienen el mismo tamaño y alineación que las de la fila superior (recortadas ligeramente para igualar proporciones). |
 | v34 | Nuevo apartado **3.4.4** «Predicción integral de la vía aérea difícil en el paciente obeso…» tras 3.4.3 (ES/EN, págs. 39–40): imagen-resumen enviada por el autor (recortada la franja negra), texto del resumen, tabla 3.4 de evidencia 2022-2026 y conclusión. Ocupa 3 páginas nuevas sin número; el inicio de 3.5 pasó a la última. Sin referencias numeradas; verificar las citas de Bhargava 2023 y la revisión EJAIC 2023 (no se encontraron en una búsqueda rápida; Senoglu 2025, Madrid-Vázquez 2024 y Nair 2025 sí existen). El texto de la imagen está en español también en el libro en inglés. |
 | v35 | El apartado de predicción integral de la vía aérea difícil se trasladó de 3.4.4 (págs. 39–40, que vuelven a su estado original) a **3.9.1**, tras la tabla 3.7 y antes de 3.10 (págs. 46–47). La tabla de evidencia pasó a ser la Tabla 3.8. En EN la tabla 3.7 estaba desplazada tras el primer punto de 3.10; se reordenó para que 3.10 quede después de 3.9.1. Tres páginas nuevas sin número en EN, dos en ES. |
+| v36 | Figura 3.3 redibujada en vectores con la fuente del libro (TeX Gyre Pagella, estilo LaTeX), letras más grandes y nítidas (render a 3600×1680 px); contenido y texto sin cambios (ES y EN). |
 
 ## Capítulo 17 — notas para revisión (v28)
 
