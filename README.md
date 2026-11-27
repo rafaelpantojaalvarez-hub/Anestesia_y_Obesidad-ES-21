@@ -2,16 +2,16 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v37**
+**Versión de trabajo actual: v38**
 
-- `Anestesia_y_Obesidad_ES_v37.pdf` (272 páginas)
-- `Anesthesia_and_Obesity_EN_v37.pdf` (271 páginas)
+- `Anestesia_y_Obesidad_ES_v38.pdf` (274 páginas)
+- `Anesthesia_and_Obesity_EN_v38.pdf` (273 páginas)
 
 > **Chat nuevo:** leer primero `CLAUDE.md` (flujo obligatorio y notas técnicas). La versión de trabajo es la indicada arriba; cada cambio crea la siguiente versión y actualiza este repositorio (rama de trabajo y `main`).
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v38**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v39**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -29,6 +29,7 @@
 | v26 | Pie de foto de la figura 6.12: paciente en **posición sentada** (no decúbito lateral). |
 | v27 | Imagen del paciente con el equipo en quirófano bajo el título del capítulo 8, antes de «Objetivos de aprendizaje». |
 | v28 | **Capítulo 17 nuevo**: «Cuidados posanestésicos, criterios de alta y tromboprofilaxis en el paciente con obesidad» (14 páginas, ES y EN; ES págs. 225–238, EN págs. 223–236). Unifica el material de Vera Health y OpenEvidence sin repetir información: criterios de alta de la URPA, consideraciones ventilatorias/cardiovasculares/quirúrgicas, alta el mismo día, tromboprofilaxis (dosis de enoxaparina por IMC), trombosis portomesentérica, caso clínico, puntos clave y 35 referencias. Incluye 2 figuras redibujadas (17.1 monitorización respiratoria tras cirugía bariátrica; 17.2 algoritmo de trombosis esplácnica) y 4 tablas. Se actualizó el índice general; Siglas/Abbreviations renumeradas. |
+| v38 | **Capítulo 14 (TIVA)**: (1) imagen 1 (taller «TIVA con TCI») al final de los objetivos de aprendizaje, antes de 14.1 (ES pág. 175; EN pág. 174); el apartado 14.1 pasó a una página nueva sin número, junto con las líneas finales del párrafo que venían de la página siguiente, y 14.2 empieza ahora en la parte superior de la siguiente. (2) imagen 2 (tablet de cálculo TCI) tras el texto de 14.4.1 (ES pág. 180; EN pág. 178), en una página nueva sin número; el párrafo «La tabla 14.4 muestra…» pasó a esa página bajo la imagen (en EN lo acompaña la tabla 14.4, que estaba en el mismo párrafo). Sin pie de foto ni número. ES 274 págs., EN 273 págs.; la numeración impresa no cambia. Scripts en `tools/v38/`. |
 
 ## Pendientes / observaciones para las próximas versiones
 
