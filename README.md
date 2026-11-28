@@ -2,16 +2,16 @@
 
 Última versión en español del libro *Anestesia y obesidad* y su equivalente en inglés (*Anesthesia and Obesity*). Todos los cambios se hacen **en ambos libros**.
 
-**Versión de trabajo actual: v41**
+**Versión de trabajo actual: v42**
 
-- `Anestesia_y_Obesidad_ES_v41.pdf` (277 páginas)
-- `Anesthesia_and_Obesity_EN_v41.pdf` (276 páginas)
+- `Anestesia_y_Obesidad_ES_v42.pdf` (277 páginas)
+- `Anesthesia_and_Obesity_EN_v42.pdf` (276 páginas)
 
 > **Chat nuevo:** leer primero `CLAUDE.md` (flujo obligatorio y notas técnicas). La versión de trabajo es la indicada arriba; cada cambio crea la siguiente versión y actualiza este repositorio (rama de trabajo y `main`).
 
 ## Reglas de trabajo (acordadas con el autor)
 
-1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v42**), en español e inglés.
+1. Cada cambio genera una **nueva versión** numerada en orden ascendente (próxima: **v43**), en español e inglés.
 2. Se trabaja siempre sobre la **última versión**.
 3. Al crear una versión nueva se guarda en el repositorio, se **eliminan los archivos de la versión anterior** (quedan en el historial de git) y se envía al autor por el chat para descargar.
 4. Nombres de archivo: `Anestesia_y_Obesidad_ES_vNN.pdf` y `Anesthesia_and_Obesity_EN_vNN.pdf`.
@@ -33,6 +33,7 @@
 | v39 | Imagen «Paciente pediátrico obeso con SAOS: manejo anestésico TIVA y vía aérea» en el capítulo 15, tras «Monitorización mínima» de 15.7 (ES pág. 206; EN pág. 205), sin pie de foto ni número. En ES ocupa una página nueva sin número entre las págs. 206 y 207 (15.8 sigue empezando en la 207); en EN la página nueva sin número lleva la imagen y, debajo, el título 15.8 con el texto que le seguía en esa página. ES 275 págs., EN 274 págs. Script: `tools/v38/build_v39.py`. |
 | v40 | Infografía del capítulo 10 (objetivos, consideraciones en la obesidad, monitorización, estrategia y tipos de líquidos) bajo el cuadro de objetivos de aprendizaje, antes de 10.1 (ES pág. 137; EN pág. 136), sin pie de foto ni número. El apartado 10.1 pasó a una página nueva sin número (la figura 10.1 sigue en la página siguiente). La imagen está en español también en el libro en inglés. ES 276 págs., EN 275 págs. Script: `tools/v38/build_v40.py`. |
 | v41 | Capítulo 6: (1) ecografía abdominal (FAST) en 6.10, bajo «…si la sospecha persiste» y antes de «Trombosis venosa profunda» (ES pág. 97; EN pág. 96); el resto de la página bajó. (2) Foto del abordaje del neuroeje en paciente obeso bajo el título 6.14 (ES págs. 98–99; EN págs. 97–98): 6.14 y su párrafo inicial pasaron a una página nueva sin número, con la foto entre el título y el párrafo; 6.14.1 empieza ahora arriba de la página siguiente. Sin pie de foto ni número. ES 277 págs., EN 276 págs. Script: `tools/v38/build_v41.py`. |
+| v42 | Pie de foto (sin número) a la ecografía de 6.10 (ES pág. 97; EN pág. 96): «Ventana de ultrasonido en la fosa hepatorrenal, espacio de Morrison. Ideal para visualizar colecciones líquidas o sangre posquirúrgica o por trauma.» (traducido en EN). Se corrigió la ortografía del texto del autor. Script: `tools/v38/build_v42.py` (requiere `fonts-texgyre`; `apt-get update` antes de instalar). |
 
 ## Pendientes / observaciones para las próximas versiones
 
